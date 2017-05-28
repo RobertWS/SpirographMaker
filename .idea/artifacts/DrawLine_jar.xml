@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DrawLine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DrawLine_jar</output-path>
+    <root id="archive" name="DrawLine.jar">
+      <element id="module-output" name="DrawLine" />
+    </root>
+  </artifact>
+</component>
